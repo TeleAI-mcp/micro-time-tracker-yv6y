@@ -1,2 +1,3 @@
-# micro-time-tracker-yv6y
-Automated issue comment bot repository
+# Micro Time Tracker Yv6Y
+
+Automated issue comment bot repository.
